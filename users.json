@@ -397,6 +397,16 @@
       "banned": 0,
       "chatId": 8074495633,
       "createdAt": "2026-06-16T16:49:11.384Z"
+    },
+    {
+      "id": 45,
+      "name": "MD SIYAM",
+      "password": "Siyam@#10",
+      "tgChannel": "https://t.me/+tcvRM9QwJ_MxYzg1",
+      "creator": "darkzsouls",
+      "banned": 0,
+      "chatId": 6112143500,
+      "createdAt": "2026-06-16T17:38:10.421Z"
     }
   ]
 }
