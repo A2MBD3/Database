@@ -236,6 +236,16 @@
       "banned": 0,
       "chatId": 8261837641,
       "createdAt": "2026-06-16T12:36:29.559Z"
+    },
+    {
+      "id": 28,
+      "name": "ISHOWX CHEATS",
+      "password": "1010",
+      "tgChannel": "2",
+      "creator": "anxh87",
+      "banned": 0,
+      "chatId": 1563315538,
+      "createdAt": "2026-06-16T12:36:31.551Z"
     }
   ]
 }
