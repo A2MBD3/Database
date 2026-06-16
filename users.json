@@ -286,6 +286,16 @@
       "banned": 0,
       "chatId": 5676546314,
       "createdAt": "2026-06-16T12:46:58.562Z"
+    },
+    {
+      "id": 33,
+      "name": "lukyy",
+      "password": "lukyy",
+      "tgChannel": "t.me/lukyyarch",
+      "creator": "lukyyplr",
+      "banned": 0,
+      "chatId": 8593728055,
+      "createdAt": "2026-06-16T12:54:04.540Z"
     }
   ]
 }
