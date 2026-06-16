@@ -417,6 +417,16 @@
       "banned": 0,
       "chatId": 5710276456,
       "createdAt": "2026-06-16T20:35:21.927Z"
+    },
+    {
+      "id": 47,
+      "name": "Terousd",
+      "password": "@11223344@",
+      "tgChannel": "https://t.me/terix_bd",
+      "creator": "terousd",
+      "banned": 0,
+      "chatId": 6712205222,
+      "createdAt": "2026-06-16T22:56:22.204Z"
     }
   ]
 }
