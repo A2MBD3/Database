@@ -256,6 +256,16 @@
       "banned": 0,
       "chatId": 6454433356,
       "createdAt": "2026-06-16T12:41:29.231Z"
+    },
+    {
+      "id": 30,
+      "name": "Reflex9146",
+      "password": "4dW@EtZSaNiguH6",
+      "tgChannel": "https://t.me/setup1376",
+      "creator": "reflexriot11",
+      "banned": 0,
+      "chatId": 8137901223,
+      "createdAt": "2026-06-16T12:42:32.492Z"
     }
   ]
 }
