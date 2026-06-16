@@ -35,17 +35,6 @@
       "lastSeen": "2026-06-15T22:41:28.958Z"
     },
     {
-      "id": 5,
-      "name": "Naruto 💝 Hinata",
-      "password": "hinata",
-      "tgChannel": "0",
-      "creator": "narutoxhinata1",
-      "banned": 0,
-      "chatId": 8709077024,
-      "createdAt": "2026-06-15T17:56:06.040Z",
-      "lastSeen": "2026-06-15T22:52:13.398Z"
-    },
-    {
       "id": 6,
       "name": "Abdullah",
       "password": "0",
@@ -65,16 +54,6 @@
       "banned": 0,
       "chatId": 7425911725,
       "createdAt": "2026-06-16T00:28:48.033Z"
-    },
-    {
-      "id": 8,
-      "name": "Official hack",
-      "password": "Garena",
-      "tgChannel": "0",
-      "creator": "a2mbd3",
-      "banned": 0,
-      "chatId": 8074495633,
-      "createdAt": "2026-06-16T01:27:08.374Z"
     },
     {
       "id": 9,
@@ -125,6 +104,46 @@
       "banned": 0,
       "chatId": 8381528766,
       "createdAt": "2026-06-16T04:35:18.002Z"
+    },
+    {
+      "id": 14,
+      "name": "Drunkern poet",
+      "password": "0",
+      "tgChannel": "0",
+      "creator": "mahadihasan099",
+      "banned": 0,
+      "chatId": 6776334925,
+      "createdAt": "2026-06-16T05:10:20.050Z"
+    },
+    {
+      "id": 15,
+      "name": "SIS HEXA",
+      "password": "S2399",
+      "tgChannel": "/sishexa",
+      "creator": "imturza",
+      "banned": 0,
+      "chatId": 7326629985,
+      "createdAt": "2026-06-16T05:17:51.300Z"
+    },
+    {
+      "id": 16,
+      "name": "ErrorX",
+      "password": "12345678@",
+      "tgChannel": "@ErrorX_BD",
+      "creator": "fakeerrorx",
+      "banned": 0,
+      "chatId": 875489865,
+      "createdAt": "2026-06-16T05:25:38.543Z"
+    },
+    {
+      "id": 17,
+      "name": "MRX",
+      "password": "mrx",
+      "tgChannel": "https://t.me/Mister_x_main",
+      "creator": "mister_x_bd",
+      "banned": 0,
+      "chatId": 7661098709,
+      "createdAt": "2026-06-16T05:29:32.223Z"
     }
   ]
 }
