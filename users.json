@@ -366,6 +366,16 @@
       "banned": 0,
       "chatId": 8093132043,
       "createdAt": "2026-06-16T15:45:39.663Z"
+    },
+    {
+      "id": 42,
+      "name": "System Cracked",
+      "password": "457",
+      "tgChannel": "http://t.me/phantomsect",
+      "creator": "a2mbd3",
+      "banned": 0,
+      "chatId": 8074495633,
+      "createdAt": "2026-06-16T16:29:33.395Z"
     }
   ]
 }
