@@ -206,6 +206,16 @@
       "banned": 0,
       "chatId": 8104507293,
       "createdAt": "2026-06-16T09:15:46.073Z"
+    },
+    {
+      "id": 25,
+      "name": "Imam Atik",
+      "password": "@tik123",
+      "tgChannel": "http://t.me/imamatik",
+      "creator": "imamatik",
+      "banned": 0,
+      "chatId": 8436564750,
+      "createdAt": "2026-06-16T09:49:34.510Z"
     }
   ]
 }
