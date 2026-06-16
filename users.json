@@ -336,6 +336,16 @@
       "banned": 0,
       "chatId": 7465367785,
       "createdAt": "2026-06-16T13:03:19.759Z"
+    },
+    {
+      "id": 38,
+      "name": "Vanni da boi",
+      "password": "0",
+      "tgChannel": "0",
+      "creator": "smk4al",
+      "banned": 0,
+      "chatId": 7184776541,
+      "createdAt": "2026-06-16T13:09:24.575Z"
     }
   ]
 }
