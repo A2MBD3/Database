@@ -407,6 +407,16 @@
       "banned": 0,
       "chatId": 6112143500,
       "createdAt": "2026-06-16T17:38:10.421Z"
+    },
+    {
+      "id": 46,
+      "name": "asd",
+      "password": "123",
+      "tgChannel": "asd",
+      "creator": "w8sojib",
+      "banned": 0,
+      "chatId": 5710276456,
+      "createdAt": "2026-06-16T20:35:21.927Z"
     }
   ]
 }
