@@ -326,6 +326,16 @@
       "banned": 0,
       "chatId": 6435048070,
       "createdAt": "2026-06-16T12:59:41.668Z"
+    },
+    {
+      "id": 37,
+      "name": "Rajib",
+      "password": "1234",
+      "tgChannel": "t.me/rajibfhbxcb",
+      "creator": "rajib9939",
+      "banned": 0,
+      "chatId": 7465367785,
+      "createdAt": "2026-06-16T13:03:19.759Z"
     }
   ]
 }
