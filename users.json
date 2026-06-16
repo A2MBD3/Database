@@ -376,6 +376,16 @@
       "banned": 0,
       "chatId": 8074495633,
       "createdAt": "2026-06-16T16:29:33.395Z"
+    },
+    {
+      "id": 43,
+      "name": "Nvram error= 0x10",
+      "password": "12",
+      "tgChannel": "0",
+      "creator": "a2mbd3",
+      "banned": 0,
+      "chatId": 8074495633,
+      "createdAt": "2026-06-16T16:33:10.324Z"
     }
   ]
 }
