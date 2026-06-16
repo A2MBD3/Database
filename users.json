@@ -195,6 +195,16 @@
       "banned": 0,
       "chatId": 1466323838,
       "createdAt": "2026-06-16T08:48:41.559Z"
+    },
+    {
+      "id": 24,
+      "name": "AIMBOT",
+      "password": "17119791",
+      "tgChannel": "1234",
+      "creator": "u2uyeg3",
+      "banned": 0,
+      "chatId": 8104507293,
+      "createdAt": "2026-06-16T09:15:46.073Z"
     }
   ]
 }
