@@ -216,6 +216,16 @@
       "banned": 0,
       "chatId": 8436564750,
       "createdAt": "2026-06-16T09:49:34.510Z"
+    },
+    {
+      "id": 26,
+      "name": "Hasan Shawon",
+      "password": "01",
+      "tgChannel": "https://t.me/+nVOGffErkJM5ZTU1",
+      "creator": "z9roxx",
+      "banned": 0,
+      "chatId": 7450988590,
+      "createdAt": "2026-06-16T11:21:21.441Z"
     }
   ]
 }
