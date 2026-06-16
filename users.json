@@ -134,6 +134,16 @@
       "banned": 0,
       "chatId": 7661098709,
       "createdAt": "2026-06-16T05:29:32.223Z"
+    },
+    {
+      "id": 18,
+      "name": "Naruto 💝 Hinata",
+      "password": "0",
+      "tgChannel": "0",
+      "creator": "narutoxhinata1",
+      "banned": 0,
+      "chatId": 8709077024,
+      "createdAt": "2026-06-16T07:42:16.101Z"
     }
   ]
 }
