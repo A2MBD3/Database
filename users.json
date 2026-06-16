@@ -226,6 +226,16 @@
       "banned": 0,
       "chatId": 7450988590,
       "createdAt": "2026-06-16T11:21:21.441Z"
+    },
+    {
+      "id": 27,
+      "name": "hexrepperr",
+      "password": "7488",
+      "tgChannel": "0",
+      "creator": "hexreaperr",
+      "banned": 0,
+      "chatId": 8261837641,
+      "createdAt": "2026-06-16T12:36:29.559Z"
     }
   ]
 }
