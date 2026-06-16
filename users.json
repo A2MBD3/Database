@@ -144,6 +144,16 @@
       "banned": 0,
       "chatId": 8709077024,
       "createdAt": "2026-06-16T07:42:16.101Z"
+    },
+    {
+      "id": 19,
+      "name": "Nadim Raaj",
+      "password": "Pubglite",
+      "tgChannel": "0",
+      "creator": "gpxadmin",
+      "banned": 0,
+      "chatId": 1815487109,
+      "createdAt": "2026-06-16T07:49:21.652Z"
     }
   ]
 }
