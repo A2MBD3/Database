@@ -276,6 +276,16 @@
       "banned": 0,
       "chatId": 8814570192,
       "createdAt": "2026-06-16T12:45:41.544Z"
+    },
+    {
+      "id": 32,
+      "name": "renjie",
+      "password": "SELAMAT0",
+      "tgChannel": "RENJIESTAR",
+      "creator": "lorenjie",
+      "banned": 0,
+      "chatId": 5676546314,
+      "createdAt": "2026-06-16T12:46:58.562Z"
     }
   ]
 }
