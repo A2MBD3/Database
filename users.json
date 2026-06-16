@@ -296,6 +296,16 @@
       "banned": 0,
       "chatId": 8593728055,
       "createdAt": "2026-06-16T12:54:04.540Z"
+    },
+    {
+      "id": 34,
+      "name": "Mr CRACKER",
+      "password": "Rifat",
+      "tgChannel": "https://t.me/+d4CwJgibp5FiYWU1",
+      "creator": "whoami404xx",
+      "banned": 0,
+      "chatId": 7030780501,
+      "createdAt": "2026-06-16T12:56:36.538Z"
     }
   ]
 }
