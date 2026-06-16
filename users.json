@@ -316,6 +316,16 @@
       "banned": 0,
       "chatId": 8625332872,
       "createdAt": "2026-06-16T12:59:33.486Z"
+    },
+    {
+      "id": 36,
+      "name": "Vipin",
+      "password": "123456",
+      "tgChannel": "1",
+      "creator": "nextgen567",
+      "banned": 0,
+      "chatId": 6435048070,
+      "createdAt": "2026-06-16T12:59:41.668Z"
     }
   ]
 }
