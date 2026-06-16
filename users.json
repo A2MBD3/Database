@@ -346,6 +346,16 @@
       "banned": 0,
       "chatId": 5883825451,
       "createdAt": "2026-06-16T13:15:06.328Z"
+    },
+    {
+      "id": 40,
+      "name": "Sabbir Vai",
+      "password": "1030507090",
+      "tgChannel": "https://t.me/thakurgaon_cyber_force_BD",
+      "creator": "sabbir_vai_likhon",
+      "banned": 0,
+      "chatId": 6803703496,
+      "createdAt": "2026-06-16T14:02:33.372Z"
     }
   ]
 }
