@@ -437,6 +437,16 @@
       "banned": 0,
       "chatId": 1061842858,
       "createdAt": "2026-06-16T23:13:30.780Z"
+    },
+    {
+      "id": 49,
+      "name": "Errorx",
+      "password": "0",
+      "tgChannel": "0",
+      "creator": "xshafinn",
+      "banned": 0,
+      "chatId": 8224141583,
+      "createdAt": "2026-06-16T23:49:20.875Z"
     }
   ]
 }
