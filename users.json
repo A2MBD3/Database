@@ -427,6 +427,16 @@
       "banned": 0,
       "chatId": 6712205222,
       "createdAt": "2026-06-16T22:56:22.204Z"
+    },
+    {
+      "id": 48,
+      "name": "Sayem",
+      "password": "1234",
+      "tgChannel": "0",
+      "creator": "mrx3915",
+      "banned": 0,
+      "chatId": 1061842858,
+      "createdAt": "2026-06-16T23:13:30.780Z"
     }
   ]
 }
