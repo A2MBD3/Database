@@ -447,6 +447,16 @@
       "banned": 0,
       "chatId": 8224141583,
       "createdAt": "2026-06-16T23:49:20.875Z"
+    },
+    {
+      "id": 50,
+      "name": "AXION",
+      "password": "AX444",
+      "tgChannel": "https://t.me/airdrop_broker",
+      "creator": "edwardayon",
+      "banned": 0,
+      "chatId": 5833500606,
+      "createdAt": "2026-06-17T00:33:50.657Z"
     }
   ]
 }
