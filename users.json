@@ -580,6 +580,16 @@
       "banned": 0,
       "chatId": 7517795186,
       "createdAt": "2026-06-19T06:33:58.947Z"
+    },
+    {
+      "id": 63,
+      "name": "Mizanur",
+      "password": "1234",
+      "tgChannel": "Nothing",
+      "creator": "mizanur_rahman_mahi",
+      "banned": 0,
+      "chatId": 5677184468,
+      "createdAt": "2026-06-19T06:35:18.805Z"
     }
   ]
 }
