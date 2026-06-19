@@ -550,6 +550,16 @@
       "banned": 0,
       "chatId": 8292891627,
       "createdAt": "2026-06-19T04:24:52.549Z"
+    },
+    {
+      "id": 60,
+      "name": "Abdullah's Nebula",
+      "password": "free",
+      "tgChannel": "http://t.me/phantomsect",
+      "creator": "a2mbd3",
+      "banned": 0,
+      "chatId": 8074495633,
+      "createdAt": "2026-06-19T04:57:35.930Z"
     }
   ]
 }
