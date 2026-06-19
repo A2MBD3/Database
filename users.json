@@ -621,6 +621,16 @@
       "banned": 0,
       "chatId": 8625965356,
       "createdAt": "2026-06-19T08:37:01.530Z"
+    },
+    {
+      "id": 67,
+      "name": "Nghia",
+      "password": "1234",
+      "tgChannel": "0",
+      "creator": "ureberr",
+      "banned": 0,
+      "chatId": 6476657689,
+      "createdAt": "2026-06-19T09:22:13.186Z"
     }
   ]
 }
