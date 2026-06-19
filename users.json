@@ -631,6 +631,16 @@
       "banned": 0,
       "chatId": 6476657689,
       "createdAt": "2026-06-19T09:22:13.186Z"
+    },
+    {
+      "id": 68,
+      "name": "hasan",
+      "password": "azx",
+      "tgChannel": "https://t.me/cvnvfcxjytrdcv",
+      "creator": "hasan_x_cheats",
+      "banned": 0,
+      "chatId": 5782469469,
+      "createdAt": "2026-06-19T15:08:13.270Z"
     }
   ]
 }
