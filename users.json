@@ -540,6 +540,16 @@
       "banned": 0,
       "chatId": 2142000273,
       "createdAt": "2026-06-19T04:10:48.126Z"
+    },
+    {
+      "id": 59,
+      "name": "Gamer",
+      "password": "1234",
+      "tgChannel": "0",
+      "creator": "yovm301",
+      "banned": 0,
+      "chatId": 8292891627,
+      "createdAt": "2026-06-19T04:24:52.549Z"
     }
   ]
 }
