@@ -590,6 +590,16 @@
       "banned": 0,
       "chatId": 5677184468,
       "createdAt": "2026-06-19T06:35:18.805Z"
+    },
+    {
+      "id": 64,
+      "name": "Munna",
+      "password": "7870",
+      "tgChannel": "t.me/symbol",
+      "creator": "akter_munna",
+      "banned": 0,
+      "chatId": 528790613,
+      "createdAt": "2026-06-19T06:38:44.907Z"
     }
   ]
 }
