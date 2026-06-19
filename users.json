@@ -560,6 +560,16 @@
       "banned": 0,
       "chatId": 8074495633,
       "createdAt": "2026-06-19T04:57:35.930Z"
+    },
+    {
+      "id": 61,
+      "name": "Fuck",
+      "password": "Fuck",
+      "tgChannel": "http://t.me/fuck",
+      "creator": "emranxsadia",
+      "banned": 0,
+      "chatId": 8029808149,
+      "createdAt": "2026-06-19T06:33:20.345Z"
     }
   ]
 }
