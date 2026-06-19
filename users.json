@@ -600,6 +600,16 @@
       "banned": 0,
       "chatId": 528790613,
       "createdAt": "2026-06-19T06:38:44.907Z"
+    },
+    {
+      "id": 65,
+      "name": "NIKET",
+      "password": "0",
+      "tgChannel": "https://t.me/niket_ff",
+      "creator": "imerelyffghost",
+      "banned": 0,
+      "chatId": 1918253288,
+      "createdAt": "2026-06-19T07:24:13.797Z"
     }
   ]
 }
