@@ -610,6 +610,16 @@
       "banned": 0,
       "chatId": 1918253288,
       "createdAt": "2026-06-19T07:24:13.797Z"
+    },
+    {
+      "id": 66,
+      "name": "DHONJOY",
+      "password": "Free",
+      "tgChannel": "@Dhonjoy143",
+      "creator": "dhonjoy143",
+      "banned": 0,
+      "chatId": 8625965356,
+      "createdAt": "2026-06-19T08:37:01.530Z"
     }
   ]
 }
