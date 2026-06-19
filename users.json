@@ -530,6 +530,16 @@
       "banned": 0,
       "chatId": 6328494884,
       "createdAt": "2026-06-18T14:22:06.716Z"
+    },
+    {
+      "id": 58,
+      "name": "arafat",
+      "password": "0",
+      "tgChannel": "0",
+      "creator": "arafat303",
+      "banned": 0,
+      "chatId": 2142000273,
+      "createdAt": "2026-06-19T04:10:48.126Z"
     }
   ]
 }
