@@ -684,6 +684,16 @@
       "banned": 0,
       "chatId": 7454573346,
       "createdAt": "2026-06-20T08:23:09.078Z"
+    },
+    {
+      "id": 73,
+      "name": "Aincrad Riyad4x Bypass",
+      "password": "1234",
+      "tgChannel": "0",
+      "creator": "buggyriyad",
+      "banned": 0,
+      "chatId": 7517000016,
+      "createdAt": "2026-06-20T09:11:50.184Z"
     }
   ]
 }
