@@ -663,6 +663,16 @@
       "banned": 0,
       "chatId": 6975226707,
       "createdAt": "2026-06-20T07:36:45.543Z"
+    },
+    {
+      "id": 71,
+      "name": "Alex saikat Ahmed",
+      "password": "Alex",
+      "tgChannel": "https://t.me/+Kp9wXg2vqF81MGU1",
+      "creator": "youknow_saikathaxker",
+      "banned": 0,
+      "chatId": 6471506621,
+      "createdAt": "2026-06-20T08:14:35.117Z"
     }
   ]
 }
