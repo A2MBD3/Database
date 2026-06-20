@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/copyright.png" alt="Copyright" width="80"/>
-  <img src="https://img.icons8.com/fluency/96/000000/block.png" alt="Block" width="80"/>
-  <img src="https://img.icons8.com/fluency/96/000000/lock.png" alt="Lock" width="80"/>
+  <img src="https://img.icons8.com/fluency/96/000000/copyright.png" alt="Copyright" width="70"/>
+  <img src="https://img.icons8.com/fluency/96/000000/block.png" alt="Block" width="70"/>
+  <img src="https://img.icons8.com/fluency/96/000000/lock.png" alt="Lock" width="70"/>
 </p>
 
 <h1 align="center">⛔ Database</h1>
@@ -20,7 +20,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=⚠️+NOT+OPEN+SOURCE;🚫+NO+FORKING+%7C+NO+CLONING;⚖️+ALL+RIGHTS+RESERVED" alt="Typing SVG"/>
+  <strong><font size="6">⚠️ NOT OPEN SOURCE</font></strong><br>
+  <strong><font size="5" color="red">🚫 NO FORKING | NO CLONING</font></strong><br>
+  <strong><font size="5">⚖️ ALL RIGHTS RESERVED</font></strong>
 </p>
 
 ---
@@ -99,7 +101,7 @@
 ## ⚖️ LICENSE
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/copyright.png" alt="Copyright"/>
+  <img src="https://img.icons8.com/fluency/96/000000/copyright.png" alt="Copyright" width="60"/>
 </p>
 
 <p align="center">
@@ -146,9 +148,15 @@
 
 ---
 
+## 📊 Repository Stats
+
 <p align="center">
+  <img src="https://img.shields.io/github/repo-size/A2MBD3/Aincrad?style=flat-square&color=red" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/last-commit/A2MBD3/Aincrad?style=flat-square&color=yellow" alt="Last Commit"/>
   <img src="https://komarev.com/ghpvc/?username=A2MBD3&label=Views&color=red&style=flat-square" alt="Views"/>
 </p>
+
+---
 
 <p align="center">
   <strong>Made with ❤️ by Abdullah Al Mamun</strong><br>
