@@ -716,6 +716,16 @@
       "banned": 0,
       "chatId": 5177488076,
       "createdAt": "2026-06-21T16:54:43.427Z"
+    },
+    {
+      "id": 76,
+      "name": "Shadin21",
+      "password": "Shadin21r",
+      "tgChannel": "https://t.me/solo_crx",
+      "creator": "efugo24",
+      "banned": 0,
+      "chatId": 6854772340,
+      "createdAt": "2026-06-21T17:02:59.683Z"
     }
   ]
 }
