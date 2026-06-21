@@ -376,9 +376,9 @@
     },
     {
       "id": 42,
-      "name": "System Cracked",
-      "password": "457",
-      "tgChannel": "http://t.me/phantomsect",
+      "name": "CRX",
+      "password": "crx",
+      "tgChannel": "t.me/solo_crx",
       "creator": "a2mbd3",
       "banned": 0,
       "chatId": 8074495633,
