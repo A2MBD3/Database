@@ -726,6 +726,16 @@
       "banned": 0,
       "chatId": 6854772340,
       "createdAt": "2026-06-21T17:02:59.683Z"
+    },
+    {
+      "id": 77,
+      "name": "Diamant",
+      "password": "Diamant",
+      "tgChannel": "0",
+      "creator": "diamantbeh",
+      "banned": 0,
+      "chatId": 8510127186,
+      "createdAt": "2026-06-21T17:09:15.925Z"
     }
   ]
 }
