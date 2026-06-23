@@ -756,6 +756,16 @@
       "banned": 0,
       "chatId": 8099139475,
       "createdAt": "2026-06-23T12:16:38.091Z"
+    },
+    {
+      "id": 80,
+      "name": "XR EMTIAZ",
+      "password": "XR",
+      "tgChannel": "https://t.me/rootpanelonly9",
+      "creator": "rootmaster69",
+      "banned": 0,
+      "chatId": 7328859416,
+      "createdAt": "2026-06-23T12:51:31.858Z"
     }
   ]
 }
