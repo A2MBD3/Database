@@ -746,6 +746,16 @@
       "banned": 0,
       "chatId": 6237523182,
       "createdAt": "2026-06-22T07:05:13.400Z"
+    },
+    {
+      "id": 79,
+      "name": "XYD TOOLS",
+      "password": "99",
+      "tgChannel": "https://t.me/xyztools_ff",
+      "creator": "bhaviahuja_ff",
+      "banned": 0,
+      "chatId": 8099139475,
+      "createdAt": "2026-06-23T12:16:38.091Z"
     }
   ]
 }
