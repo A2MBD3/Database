@@ -787,6 +787,16 @@
       "banned": 0,
       "chatId": 7932310560,
       "createdAt": "2026-06-24T06:29:10.090Z"
+    },
+    {
+      "id": 83,
+      "name": "Zaman",
+      "password": "0",
+      "tgChannel": "0",
+      "creator": "quamruzzaman10",
+      "banned": 0,
+      "chatId": 5394448658,
+      "createdAt": "2026-06-24T08:07:40.005Z"
     }
   ]
 }
