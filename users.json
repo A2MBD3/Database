@@ -797,6 +797,16 @@
       "banned": 0,
       "chatId": 5394448658,
       "createdAt": "2026-06-24T08:07:40.005Z"
+    },
+    {
+      "id": 84,
+      "name": "IKHLAS BYPASS SYSTEM",
+      "password": "5504",
+      "tgChannel": "0",
+      "creator": "ikhlashassan",
+      "banned": 0,
+      "chatId": 6397378701,
+      "createdAt": "2026-06-25T08:46:17.134Z"
     }
   ]
 }
