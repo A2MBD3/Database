@@ -827,6 +827,16 @@
       "banned": 0,
       "chatId": 1463755837,
       "createdAt": "2026-06-25T21:39:35.149Z"
+    },
+    {
+      "id": 87,
+      "name": "Ak",
+      "password": "QLCON",
+      "tgChannel": "T.me/xs_lcon",
+      "creator": "xs_lcon",
+      "banned": 0,
+      "chatId": 6958978829,
+      "createdAt": "2026-06-25T22:13:43.887Z"
     }
   ]
 }
