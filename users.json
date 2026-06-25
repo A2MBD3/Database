@@ -817,6 +817,16 @@
       "banned": 0,
       "chatId": 8124981898,
       "createdAt": "2026-06-25T11:14:49.122Z"
+    },
+    {
+      "id": 86,
+      "name": "ZAID KHAN",
+      "password": "123",
+      "tgChannel": "https://t.me/sanam94cheats",
+      "creator": "starsanam94",
+      "banned": 0,
+      "chatId": 1463755837,
+      "createdAt": "2026-06-25T21:39:35.149Z"
     }
   ]
 }
