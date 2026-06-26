@@ -857,6 +857,16 @@
       "banned": 0,
       "chatId": 8074495633,
       "createdAt": "2026-06-26T03:32:05.982Z"
+    },
+    {
+      "id": 90,
+      "name": "Test",
+      "password": "0",
+      "tgChannel": "0",
+      "creator": "a2mbd3",
+      "banned": 0,
+      "chatId": 8074495633,
+      "createdAt": "2026-06-26T03:34:34.494Z"
     }
   ]
 }
