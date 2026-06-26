@@ -897,6 +897,16 @@
       "banned": 0,
       "chatId": 8345246872,
       "createdAt": "2026-06-26T16:43:12.154Z"
+    },
+    {
+      "id": 94,
+      "name": "Sifat",
+      "password": "sn",
+      "tgChannel": "0",
+      "creator": "javier9t9",
+      "banned": 0,
+      "chatId": 5470834783,
+      "createdAt": "2026-06-26T17:50:13.560Z"
     }
   ]
 }
