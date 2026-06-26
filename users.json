@@ -877,6 +877,16 @@
       "banned": 0,
       "chatId": 7474117794,
       "createdAt": "2026-06-26T11:02:39.076Z"
+    },
+    {
+      "id": 92,
+      "name": "Aincrad Bypass",
+      "password": "crx",
+      "tgChannel": "t.me/solo_crx",
+      "creator": "a2mbd3",
+      "banned": 0,
+      "chatId": 8074495633,
+      "createdAt": "2026-06-26T15:28:50.268Z"
     }
   ]
 }
