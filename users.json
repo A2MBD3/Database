@@ -837,6 +837,16 @@
       "banned": 0,
       "chatId": 6958978829,
       "createdAt": "2026-06-25T22:13:43.887Z"
+    },
+    {
+      "id": 88,
+      "name": "BURK",
+      "password": "sasa1212",
+      "tgChannel": "https://t.me/lojadefreefiremf",
+      "creator": "srnburkhardt1",
+      "banned": 0,
+      "chatId": 6910371331,
+      "createdAt": "2026-06-26T03:17:28.047Z"
     }
   ]
 }
