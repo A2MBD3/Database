@@ -907,6 +907,16 @@
       "banned": 0,
       "chatId": 5470834783,
       "createdAt": "2026-06-26T17:50:13.560Z"
+    },
+    {
+      "id": 95,
+      "name": "MD TARIF HOSSAIN",
+      "password": "3434",
+      "tgChannel": "https://t.me/pcsimulatorbytarif",
+      "creator": "mth6857",
+      "banned": 0,
+      "chatId": 7100523871,
+      "createdAt": "2026-06-26T20:09:00.546Z"
     }
   ]
 }
