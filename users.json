@@ -968,6 +968,16 @@
       "banned": 0,
       "chatId": 7758623520,
       "createdAt": "2026-06-27T10:47:40.693Z"
+    },
+    {
+      "id": 101,
+      "name": "Arjun",
+      "password": "0016",
+      "tgChannel": "0",
+      "creator": "arjunnnn07",
+      "banned": 0,
+      "chatId": 7834371914,
+      "createdAt": "2026-06-27T12:41:31.964Z"
     }
   ]
 }
