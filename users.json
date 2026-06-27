@@ -948,6 +948,16 @@
       "banned": 0,
       "chatId": 6343513053,
       "createdAt": "2026-06-27T09:38:47.463Z"
+    },
+    {
+      "id": 99,
+      "name": "Ayush 07",
+      "password": "AYUSH",
+      "tgChannel": "0",
+      "creator": "itsayush_07",
+      "banned": 0,
+      "chatId": 8650415480,
+      "createdAt": "2026-06-27T10:24:54.647Z"
     }
   ]
 }
