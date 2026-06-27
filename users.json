@@ -928,6 +928,16 @@
       "banned": 0,
       "chatId": 1255413611,
       "createdAt": "2026-06-26T21:20:40.287Z"
+    },
+    {
+      "id": 97,
+      "name": "Rahul",
+      "password": "6969",
+      "tgChannel": "0",
+      "creator": "rahul_ahammed",
+      "banned": 0,
+      "chatId": 6321250191,
+      "createdAt": "2026-06-27T05:03:25.110Z"
     }
   ]
 }
