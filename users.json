@@ -988,6 +988,16 @@
       "banned": 0,
       "chatId": 6866936136,
       "createdAt": "2026-06-27T14:44:06.125Z"
+    },
+    {
+      "id": 103,
+      "name": "SHN",
+      "password": "0",
+      "tgChannel": "0",
+      "creator": "shanun_id",
+      "banned": 0,
+      "chatId": 8180104295,
+      "createdAt": "2026-06-27T16:22:52.962Z"
     }
   ]
 }
