@@ -1067,7 +1067,7 @@
       "id": 110,
       "name": "HBS",
       "password": "0",
-      "tgChannel": "0",
+      "tgChannel": "@TEAM_HBS",
       "creator": "team_hbs",
       "banned": 0,
       "chatId": 8721952828,
