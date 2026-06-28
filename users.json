@@ -999,6 +999,16 @@
       "banned": 0,
       "chatId": 8180104295,
       "createdAt": "2026-06-27T16:22:52.962Z"
+    },
+    {
+      "id": 104,
+      "name": "Shakil",
+      "password": "5454",
+      "tgChannel": "none",
+      "creator": "mdshakil655",
+      "banned": 0,
+      "chatId": 6294076656,
+      "createdAt": "2026-06-28T06:33:27.176Z"
     }
   ]
 }
