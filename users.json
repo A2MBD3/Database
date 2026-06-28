@@ -1009,6 +1009,16 @@
       "banned": 0,
       "chatId": 6294076656,
       "createdAt": "2026-06-28T06:33:27.176Z"
+    },
+    {
+      "id": 105,
+      "name": "GAMING TUHIN 07",
+      "password": "GT07",
+      "tgChannel": "https://t.me/gamingtuhin",
+      "creator": "gamingtuhin07",
+      "banned": 0,
+      "chatId": 6891655429,
+      "createdAt": "2026-06-28T06:54:26.629Z"
     }
   ]
 }
