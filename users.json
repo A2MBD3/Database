@@ -1052,6 +1052,16 @@
       "banned": 0,
       "chatId": 8380195452,
       "createdAt": "2026-06-28T15:48:26.625Z"
+    },
+    {
+      "id": 109,
+      "name": "ZHㅤOfficial",
+      "password": "ZH",
+      "tgChannel": "https://t.me/+kSRgXjMKZyM4Mjll",
+      "creator": "zh_free_hack",
+      "banned": 0,
+      "chatId": 8207365658,
+      "createdAt": "2026-06-28T17:21:28.831Z"
     }
   ]
 }
