@@ -1029,6 +1029,16 @@
       "banned": 0,
       "chatId": 8074495633,
       "createdAt": "2026-06-28T08:36:20.272Z"
+    },
+    {
+      "id": 107,
+      "name": "Abdullah 🇧🇩🇵🇸",
+      "password": "0",
+      "tgChannel": "http://t.me/solo_crx",
+      "creator": "a2mbd",
+      "banned": 0,
+      "chatId": 8378888600,
+      "createdAt": "2026-06-28T08:42:54.786Z"
     }
   ]
 }
