@@ -1042,6 +1042,16 @@
       "banned": 0,
       "chatId": 8378888600,
       "createdAt": "2026-06-28T08:42:54.786Z"
+    },
+    {
+      "id": 108,
+      "name": "Arafat",
+      "password": "303",
+      "tgChannel": "0",
+      "creator": "nayem3034",
+      "banned": 0,
+      "chatId": 8380195452,
+      "createdAt": "2026-06-28T15:48:26.625Z"
     }
   ]
 }
