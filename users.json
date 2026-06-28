@@ -1062,6 +1062,16 @@
       "banned": 0,
       "chatId": 8207365658,
       "createdAt": "2026-06-28T17:21:28.831Z"
+    },
+    {
+      "id": 110,
+      "name": "sabe",
+      "password": "1234",
+      "tgChannel": "0",
+      "creator": "team_hbs",
+      "banned": 0,
+      "chatId": 8721952828,
+      "createdAt": "2026-06-28T20:13:33.470Z"
     }
   ]
 }
