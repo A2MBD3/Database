@@ -1027,8 +1027,9 @@
       "tgChannel": "https://t.me/toxic_913bot",
       "creator": "toxic10x",
       "banned": 0,
-      "chatId": 8924531231,
-      "createdAt": "2026-06-30T21:04:14.940Z"
+      "chatId": -1003828861119,
+      "createdAt": "2026-06-30T21:04:14.940Z",
+      "lastSeen": "2026-06-30T21:30:51.795Z"
     }
   ]
 }
