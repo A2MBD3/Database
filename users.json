@@ -1072,6 +1072,16 @@
       "banned": 0,
       "chatId": 8436981308,
       "createdAt": "2026-06-30T12:06:34.808Z"
+    },
+    {
+      "id": 112,
+      "name": "Toxic",
+      "password": "1234",
+      "tgChannel": "https://t.me/toxic_913bot",
+      "creator": "toxic10x",
+      "banned": 0,
+      "chatId": 8924531231,
+      "createdAt": "2026-06-30T21:04:14.940Z"
     }
   ]
 }
