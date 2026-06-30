@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 0,
-      "name": "Abdullah Al Mamun",
-      "tgChannel": "t.me/redguild",
+      "name": "☠️TEAM CRX☠️",
+      "tgChannel": "t.me/solo_crx",
       "password": "0",
       "banned": 0
     },
@@ -33,11 +33,11 @@
       "banned": 0,
       "chatId": 8074495633,
       "createdAt": "2026-06-15T21:02:42.735Z",
-      "lastSeen": "2026-06-20T08:03:48.042Z"
+      "lastSeen": "2026-06-28T16:11:43.609Z"
     },
     {
       "id": 7,
-      "name": "ZxSU",
+      "name": "Zenitsu",
       "password": "3339",
       "tgChannel": "ZxSU",
       "creator": "sabbir8753",
@@ -51,7 +51,7 @@
       "password": "Aura@123",
       "tgChannel": "https://t.me/+9qZXHZj6gx42NWVl",
       "creator": "shivamcheat",
-      "banned": 0,
+      "banned": 2,
       "chatId": 8436433543,
       "createdAt": "2026-06-16T02:17:16.517Z"
     },
@@ -73,7 +73,7 @@
       "tgChannel": "0",
       "creator": "j0dzx7",
       "banned": 0,
-      "chatId": 5671674351,
+      "chatId": null,
       "createdAt": "2026-06-16T04:11:46.872Z"
     },
     {
@@ -82,9 +82,10 @@
       "password": "sadhin121",
       "tgChannel": "@free_hackbo1",
       "creator": "free_hackbo1",
-      "banned": 0,
-      "chatId": 6288490674,
-      "createdAt": "2026-06-16T04:18:00.857Z"
+      "banned": 2,
+      "chatId": -1003828861119,
+      "createdAt": "2026-06-16T04:18:00.857Z",
+      "lastSeen": "2026-06-28T13:09:49.143Z"
     },
     {
       "id": 13,
@@ -93,7 +94,7 @@
       "tgChannel": "@mychanel",
       "creator": "flicker_f4o",
       "banned": 0,
-      "chatId": 8381528766,
+      "chatId": null,
       "createdAt": "2026-06-16T04:35:18.002Z"
     },
     {
@@ -109,7 +110,7 @@
     },
     {
       "id": 15,
-      "name": "SIS HEXA",
+      "name": "IM SAJIB",
       "password": "S",
       "tgChannel": "/sishexa",
       "creator": "imturza",
@@ -123,7 +124,7 @@
       "password": "12345678@",
       "tgChannel": "@ErrorX_BD",
       "creator": "fakeerrorx",
-      "banned": 0,
+      "banned": 2,
       "chatId": 875489865,
       "createdAt": "2026-06-16T05:25:38.543Z"
     },
@@ -133,7 +134,7 @@
       "password": "mrx",
       "tgChannel": "https://t.me/Mister_x_main",
       "creator": "mister_x_bd",
-      "banned": 0,
+      "banned": 2,
       "chatId": 7661098709,
       "createdAt": "2026-06-16T05:29:32.223Z"
     },
@@ -143,9 +144,10 @@
       "password": "0",
       "tgChannel": "0",
       "creator": "narutoxhinata1",
-      "banned": 0,
+      "banned": 1,
       "chatId": 8709077024,
-      "createdAt": "2026-06-16T07:42:16.101Z"
+      "createdAt": "2026-06-16T07:42:16.101Z",
+      "lastSeen": "2026-06-20T17:55:08.300Z"
     },
     {
       "id": 19,
@@ -153,7 +155,7 @@
       "password": "Pubglite",
       "tgChannel": "0",
       "creator": "gpxadmin",
-      "banned": 0,
+      "banned": 2,
       "chatId": 1815487109,
       "createdAt": "2026-06-16T07:49:21.652Z"
     },
@@ -175,7 +177,7 @@
       "tgChannel": "0",
       "creator": "abdullah01943",
       "banned": 0,
-      "chatId": 5429802342,
+      "chatId": null,
       "createdAt": "2026-06-16T08:41:15.269Z"
     },
     {
@@ -184,7 +186,7 @@
       "password": "12345",
       "tgChannel": "t.me/PrimiumFiles",
       "creator": "rakiib",
-      "banned": 0,
+      "banned": 2,
       "chatId": 1466323838,
       "createdAt": "2026-06-16T08:48:41.559Z"
     },
@@ -194,7 +196,7 @@
       "password": "1183908471",
       "tgChannel": "1234",
       "creator": "u2uyeg3",
-      "banned": 0,
+      "banned": 2,
       "chatId": 8104507293,
       "createdAt": "2026-06-16T09:15:46.073Z"
     },
@@ -204,7 +206,7 @@
       "password": "@tik123",
       "tgChannel": "http://t.me/imamatik",
       "creator": "imamatik",
-      "banned": 0,
+      "banned": 2,
       "chatId": 8436564750,
       "createdAt": "2026-06-16T09:49:34.510Z"
     },
@@ -236,7 +238,7 @@
       "tgChannel": "Ishow",
       "creator": "anxh87",
       "banned": 0,
-      "chatId": 1563315538,
+      "chatId": null,
       "createdAt": "2026-06-16T12:36:31.551Z"
     },
     {
@@ -245,7 +247,7 @@
       "password": "Fuck",
       "tgChannel": "https://aincradmods.com/getkey",
       "creator": "xdhalal",
-      "banned": 0,
+      "banned": 2,
       "chatId": 6454433356,
       "createdAt": "2026-06-16T12:41:29.231Z"
     },
@@ -256,7 +258,7 @@
       "tgChannel": "https://t.me/setup1376",
       "creator": "reflexriot11",
       "banned": 0,
-      "chatId": 8137901223,
+      "chatId": null,
       "createdAt": "2026-06-16T12:42:32.492Z"
     },
     {
@@ -265,7 +267,7 @@
       "password": "1933",
       "tgChannel": "https://t.me/hanxfiw",
       "creator": "hansxxx1",
-      "banned": 0,
+      "banned": 2,
       "chatId": 8814570192,
       "createdAt": "2026-06-16T12:45:41.544Z"
     },
@@ -275,7 +277,7 @@
       "password": "SELAMAT0",
       "tgChannel": "RENJIESTAR",
       "creator": "lorenjie",
-      "banned": 0,
+      "banned": 2,
       "chatId": 5676546314,
       "createdAt": "2026-06-16T12:46:58.562Z"
     },
@@ -291,13 +293,14 @@
     },
     {
       "id": 34,
-      "name": "Mr CRACKER",
+      "name": "Vip Pers0n Only",
       "password": "Rifat",
-      "tgChannel": "https://t.me/+d4CwJgibp5FiYWU1",
+      "tgChannel": "Vip Person Only",
       "creator": "whoami404xx",
       "banned": 0,
       "chatId": 7030780501,
-      "createdAt": "2026-06-16T12:56:36.538Z"
+      "createdAt": "2026-06-16T12:56:36.538Z",
+      "lastSeen": "2026-06-29T02:43:44.247Z"
     },
     {
       "id": 35,
@@ -316,14 +319,14 @@
       "password": "123456",
       "tgChannel": "1",
       "creator": "nextgen567",
-      "banned": 0,
+      "banned": 2,
       "chatId": 6435048070,
       "createdAt": "2026-06-16T12:59:41.668Z"
     },
     {
       "id": 37,
-      "name": "Rajib",
-      "password": "1234",
+      "name": "Rajib Hossen",
+      "password": "220297",
       "tgChannel": "t.me/rajibfhbxcb",
       "creator": "rajib9939",
       "banned": 0,
@@ -343,13 +346,14 @@
     },
     {
       "id": 39,
-      "name": "Garena Official",
-      "password": "12",
-      "tgChannel": "0",
+      "name": "SOLO X CRX",
+      "password": "solo",
+      "tgChannel": "t.me/solo_crx",
       "creator": "soloxvex",
       "banned": 0,
-      "chatId": 5883825451,
-      "createdAt": "2026-06-16T13:15:06.328Z"
+      "chatId": -1003828861119,
+      "createdAt": "2026-06-16T13:15:06.328Z",
+      "lastSeen": "2026-06-21T09:32:32.395Z"
     },
     {
       "id": 40,
@@ -368,15 +372,15 @@
       "password": "112233",
       "tgChannel": "0",
       "creator": "hanifuddin2",
-      "banned": 0,
+      "banned": 2,
       "chatId": 8093132043,
       "createdAt": "2026-06-16T15:45:39.663Z"
     },
     {
       "id": 42,
-      "name": "System Cracked",
-      "password": "457",
-      "tgChannel": "http://t.me/phantomsect",
+      "name": "CRX",
+      "password": "crx",
+      "tgChannel": "t.me/solo_crx",
       "creator": "a2mbd3",
       "banned": 0,
       "chatId": 8074495633,
@@ -409,7 +413,7 @@
       "tgChannel": "https://t.me/+tcvRM9QwJ_MxYzg1",
       "creator": "darkzsouls",
       "banned": 0,
-      "chatId": 6112143500,
+      "chatId": null,
       "createdAt": "2026-06-16T17:38:10.421Z"
     },
     {
@@ -418,7 +422,7 @@
       "password": "123",
       "tgChannel": "asd",
       "creator": "w8sojib",
-      "banned": 0,
+      "banned": 2,
       "chatId": 5710276456,
       "createdAt": "2026-06-16T20:35:21.927Z"
     },
@@ -450,7 +454,7 @@
       "tgChannel": "0",
       "creator": "xshafinn",
       "banned": 0,
-      "chatId": 8224141583,
+      "chatId": null,
       "createdAt": "2026-06-16T23:49:20.875Z"
     },
     {
@@ -480,7 +484,7 @@
       "tgChannel": "0",
       "creator": "otakuosenpai",
       "banned": 0,
-      "chatId": 6594192903,
+      "chatId": null,
       "createdAt": "2026-06-17T05:51:35.167Z"
     },
     {
@@ -489,7 +493,7 @@
       "password": "0",
       "tgChannel": "https://t.me/redowansky_drops",
       "creator": "redowansky",
-      "banned": 0,
+      "banned": 2,
       "chatId": 5463162358,
       "createdAt": "2026-06-17T09:35:21.473Z"
     },
@@ -499,7 +503,7 @@
       "password": "53",
       "tgChannel": "https://t.me/xr_czbot",
       "creator": "unknownxmhm",
-      "banned": 0,
+      "banned": 2,
       "chatId": 5901591989,
       "createdAt": "2026-06-17T13:29:02.572Z"
     },
@@ -529,14 +533,14 @@
       "password": "7890",
       "tgChannel": "https://t.me/v8amans",
       "creator": "aman_7453",
-      "banned": 0,
+      "banned": 2,
       "chatId": 6328494884,
       "createdAt": "2026-06-18T14:22:06.716Z"
     },
     {
       "id": 58,
       "name": "Gamer",
-      "password": "0",
+      "password": "12",
       "tgChannel": "0",
       "creator": "arafat303",
       "banned": 0,
@@ -551,7 +555,8 @@
       "creator": "yovm301",
       "banned": 0,
       "chatId": 8292891627,
-      "createdAt": "2026-06-19T04:24:52.549Z"
+      "createdAt": "2026-06-19T04:24:52.549Z",
+      "lastSeen": "2026-06-28T14:55:38.974Z"
     },
     {
       "id": 60,
@@ -569,10 +574,10 @@
       "password": "Fuck",
       "tgChannel": "http://t.me/fuck",
       "creator": "emranxsadia",
-      "banned": 1,
-      "chatId": -1003828861119,
+      "banned": 2,
+      "chatId": 8029808149,
       "createdAt": "2026-06-19T06:33:20.345Z",
-      "lastSeen": "2026-06-19T09:04:30.835Z"
+      "lastSeen": "2026-06-20T10:22:13.811Z"
     },
     {
       "id": 62,
@@ -580,7 +585,7 @@
       "password": "qwer11qwer22",
       "tgChannel": "http://t.me/asifgamingx",
       "creator": "asifgamerxxx",
-      "banned": 0,
+      "banned": 2,
       "chatId": 7517795186,
       "createdAt": "2026-06-19T06:33:58.947Z"
     },
@@ -600,7 +605,7 @@
       "password": "7870",
       "tgChannel": "t.me/symbol",
       "creator": "akter_munna",
-      "banned": 0,
+      "banned": 2,
       "chatId": 528790613,
       "createdAt": "2026-06-19T06:38:44.907Z"
     },
@@ -626,9 +631,9 @@
     },
     {
       "id": 67,
-      "name": "Nghia",
-      "password": "1234",
-      "tgChannel": "0",
+      "name": "aincard",
+      "password": "0",
+      "tgChannel": "Taodz",
       "creator": "ureberr",
       "banned": 0,
       "chatId": 6476657689,
@@ -640,7 +645,7 @@
       "password": "azx",
       "tgChannel": "https://t.me/cvnvfcxjytrdcv",
       "creator": "hasan_x_cheats",
-      "banned": 0,
+      "banned": 2,
       "chatId": 5782469469,
       "createdAt": "2026-06-19T15:08:13.270Z"
     },
@@ -651,8 +656,9 @@
       "tgChannel": "https://t.me/cvnvfcxjytrdcv",
       "creator": "playtowinadmin1",
       "banned": 0,
-      "chatId": 6621780177,
-      "createdAt": "2026-06-19T15:27:49.596Z"
+      "chatId": -1003828861119,
+      "createdAt": "2026-06-19T15:27:49.596Z",
+      "lastSeen": "2026-06-20T14:14:11.521Z"
     },
     {
       "id": 70,
@@ -671,18 +677,391 @@
       "tgChannel": "https://t.me/+Kp9wXg2vqF81MGU1",
       "creator": "youknow_saikathaxker",
       "banned": 0,
-      "chatId": 6471506621,
+      "chatId": null,
       "createdAt": "2026-06-20T08:14:35.117Z"
     },
     {
       "id": 72,
-      "name": "Fuck your mommy",
-      "password": "Fuck Your mom",
+      "name": "Fuck Your mom",
+      "password": "Fuck",
       "tgChannel": "Fuck your personality",
       "creator": "zxiowner",
+      "banned": 1,
+      "chatId": -1003828861119,
+      "createdAt": "2026-06-20T08:23:09.078Z",
+      "lastSeen": "2026-06-23T20:00:33.606Z"
+    },
+    {
+      "id": 73,
+      "name": "Aincrad Riyad4x Bypass",
+      "password": "1234",
+      "tgChannel": "0",
+      "creator": "buggyriyad",
       "banned": 0,
-      "chatId": 7454573346,
-      "createdAt": "2026-06-20T08:23:09.078Z"
+      "chatId": 7517000016,
+      "createdAt": "2026-06-20T09:11:50.184Z"
+    },
+    {
+      "id": 74,
+      "name": "MD saddam",
+      "password": "2244",
+      "tgChannel": "none",
+      "creator": "mdsaddam234",
+      "banned": 2,
+      "chatId": 5713139565,
+      "createdAt": "2026-06-20T16:38:33.088Z"
+    },
+    {
+      "id": 75,
+      "name": "Shakil",
+      "password": "5555",
+      "tgChannel": "None",
+      "creator": "rana1246ks",
+      "banned": 0,
+      "chatId": 5177488076,
+      "createdAt": "2026-06-21T16:54:43.427Z"
+    },
+    {
+      "id": 76,
+      "name": "Shadin21",
+      "password": "Shadin21r",
+      "tgChannel": "https://t.me/solo_crx",
+      "creator": "efugo24",
+      "banned": 0,
+      "chatId": 6854772340,
+      "createdAt": "2026-06-21T17:02:59.683Z"
+    },
+    {
+      "id": 77,
+      "name": "Diamant",
+      "password": "Diamant",
+      "tgChannel": "0",
+      "creator": "diamantbeh",
+      "banned": 0,
+      "chatId": 8510127186,
+      "createdAt": "2026-06-21T17:09:15.925Z"
+    },
+    {
+      "id": 78,
+      "name": "MD. Labib Islam",
+      "password": "555",
+      "tgChannel": "Labib X Panel",
+      "creator": "mdlabibislam001",
+      "banned": 0,
+      "chatId": 6237523182,
+      "createdAt": "2026-06-22T07:05:13.400Z"
+    },
+    {
+      "id": 79,
+      "name": "XYD TOOLS",
+      "password": "99",
+      "tgChannel": "https://t.me/xyztools_ff",
+      "creator": "bhaviahuja_ff",
+      "banned": 0,
+      "chatId": 8099139475,
+      "createdAt": "2026-06-23T12:16:38.091Z"
+    },
+    {
+      "id": 80,
+      "name": "XR EMTIAZ",
+      "password": "XR",
+      "tgChannel": "https://t.me/rootpanelonly9",
+      "creator": "rootmaster69",
+      "banned": 0,
+      "chatId": 7328859416,
+      "createdAt": "2026-06-23T12:51:31.858Z"
+    },
+    {
+      "id": 82,
+      "name": "Orion Hossain Irfan",
+      "password": "0",
+      "tgChannel": "0",
+      "creator": "ipxo_bd_back",
+      "banned": 0,
+      "chatId": 7932310560,
+      "createdAt": "2026-06-24T06:29:10.090Z"
+    },
+    {
+      "id": 83,
+      "name": "Zaman",
+      "password": "0",
+      "tgChannel": "0",
+      "creator": "quamruzzaman10",
+      "banned": 0,
+      "chatId": 5394448658,
+      "createdAt": "2026-06-24T08:07:40.005Z"
+    },
+    {
+      "id": 84,
+      "name": "Aincrad key",
+      "password": "1111",
+      "tgChannel": "0",
+      "creator": "ikhlashassan",
+      "banned": 0,
+      "chatId": 6397378701,
+      "createdAt": "2026-06-25T08:46:17.134Z"
+    },
+    {
+      "id": 85,
+      "name": "Arafat",
+      "password": "Arafat77990",
+      "tgChannel": "https://t.me/solo_crx",
+      "creator": "sakib2076",
+      "banned": 0,
+      "chatId": 8124981898,
+      "createdAt": "2026-06-25T11:14:49.122Z"
+    },
+    {
+      "id": 86,
+      "name": "Free",
+      "password": "123",
+      "tgChannel": "https://t.me/sanam94cheats",
+      "creator": "starsanam94",
+      "banned": 0,
+      "chatId": 1463755837,
+      "createdAt": "2026-06-25T21:39:35.149Z"
+    },
+    {
+      "id": 87,
+      "name": "Ak",
+      "password": "ak",
+      "tgChannel": "T.me/xs_lcon",
+      "creator": "xs_lcon",
+      "banned": 0,
+      "chatId": 6958978829,
+      "createdAt": "2026-06-25T22:13:43.887Z"
+    },
+    {
+      "id": 88,
+      "name": "BURK",
+      "password": "sasa1212",
+      "tgChannel": "https://t.me/lojadefreefiremf",
+      "creator": "srnburkhardt1",
+      "banned": 0,
+      "chatId": 6910371331,
+      "createdAt": "2026-06-26T03:17:28.047Z"
+    },
+    {
+      "id": 89,
+      "name": "Bypass",
+      "password": "0",
+      "tgChannel": "0",
+      "creator": "a2mbd3",
+      "banned": 0,
+      "chatId": 8074495633,
+      "createdAt": "2026-06-26T03:32:05.982Z"
+    },
+    {
+      "id": 90,
+      "name": "Test",
+      "password": "0",
+      "tgChannel": "0",
+      "creator": "a2mbd3",
+      "banned": 0,
+      "chatId": 8074495633,
+      "createdAt": "2026-06-26T03:34:34.494Z"
+    },
+    {
+      "id": 91,
+      "name": "Sajid",
+      "password": "0000",
+      "tgChannel": "none",
+      "creator": "sing441",
+      "banned": 0,
+      "chatId": -1003828861119,
+      "createdAt": "2026-06-26T11:02:39.076Z",
+      "lastSeen": "2026-06-28T06:26:29.783Z"
+    },
+    {
+      "id": 92,
+      "name": "Aincrad Bypass",
+      "password": "crx",
+      "tgChannel": "t.me/solo_crx",
+      "creator": "a2mbd3",
+      "banned": 0,
+      "chatId": 8074495633,
+      "createdAt": "2026-06-26T15:28:50.268Z"
+    },
+    {
+      "id": 93,
+      "name": "MUSFIQUR RAHMAN SIAM",
+      "password": "2849",
+      "tgChannel": "0",
+      "creator": "bd_police_siam",
+      "banned": 0,
+      "chatId": 8345246872,
+      "createdAt": "2026-06-26T16:43:12.154Z"
+    },
+    {
+      "id": 94,
+      "name": "Sifat",
+      "password": "sn",
+      "tgChannel": "0",
+      "creator": "javier9t9",
+      "banned": 0,
+      "chatId": 5470834783,
+      "createdAt": "2026-06-26T17:50:13.560Z"
+    },
+    {
+      "id": 95,
+      "name": "MD TARIF HOSSAIN",
+      "password": "3434",
+      "tgChannel": "https://t.me/pcsimulatorbytarif",
+      "creator": "mth6857",
+      "banned": 0,
+      "chatId": 7100523871,
+      "createdAt": "2026-06-26T20:09:00.546Z"
+    },
+    {
+      "id": 96,
+      "name": "Rocky gamer",
+      "password": "1234",
+      "tgChannel": "Rockygamervk",
+      "creator": "rockygamervk",
+      "banned": 0,
+      "chatId": -1003828861119,
+      "createdAt": "2026-06-26T21:20:40.287Z",
+      "lastSeen": "2026-06-28T13:17:49.891Z"
+    },
+    {
+      "id": 97,
+      "name": "Trix",
+      "password": "TRIX",
+      "tgChannel": "0",
+      "creator": "rahul_ahammed",
+      "banned": 0,
+      "chatId": 6321250191,
+      "createdAt": "2026-06-27T05:03:25.110Z"
+    },
+    {
+      "id": 98,
+      "name": "FF JOD 2X",
+      "password": "FF JOD",
+      "tgChannel": "0",
+      "creator": "ff_ghost_999",
+      "banned": 0,
+      "chatId": 6343513053,
+      "createdAt": "2026-06-27T09:38:47.463Z"
+    },
+    {
+      "id": 99,
+      "name": "AYUSH 07",
+      "password": "AYUSH",
+      "tgChannel": "https://t.me/ayush0707hu",
+      "creator": "itsayush_07",
+      "banned": 0,
+      "chatId": 8650415480,
+      "createdAt": "2026-06-27T10:24:54.647Z"
+    },
+    {
+      "id": 100,
+      "name": "Mikey",
+      "password": "0016",
+      "tgChannel": "0",
+      "creator": "mikeyyyy0016",
+      "banned": 0,
+      "chatId": 7758623520,
+      "createdAt": "2026-06-27T10:47:40.693Z"
+    },
+    {
+      "id": 101,
+      "name": "Arjun",
+      "password": "0016",
+      "tgChannel": "0",
+      "creator": "arjunnnn07",
+      "banned": 0,
+      "chatId": 7834371914,
+      "createdAt": "2026-06-27T12:41:31.964Z"
+    },
+    {
+      "id": 102,
+      "name": "Samir",
+      "password": "Samir",
+      "tgChannel": "0",
+      "creator": "samexez",
+      "banned": 0,
+      "chatId": 6866936136,
+      "createdAt": "2026-06-27T14:44:06.125Z"
+    },
+    {
+      "id": 103,
+      "name": "Xiss",
+      "password": "0",
+      "tgChannel": "0",
+      "creator": "shanun_id",
+      "banned": 0,
+      "chatId": 8180104295,
+      "createdAt": "2026-06-27T16:22:52.962Z"
+    },
+    {
+      "id": 104,
+      "name": "Shakil",
+      "password": "5454",
+      "tgChannel": "none",
+      "creator": "mdshakil655",
+      "banned": 0,
+      "chatId": 6294076656,
+      "createdAt": "2026-06-28T06:33:27.176Z"
+    },
+    {
+      "id": 105,
+      "name": "GAMING TUHIN 07",
+      "password": "GT07",
+      "tgChannel": "https://t.me/gamingtuhin",
+      "creator": "gamingtuhin07",
+      "banned": 0,
+      "chatId": 6891655429,
+      "createdAt": "2026-06-28T06:54:26.629Z"
+    },
+    {
+      "id": 106,
+      "name": "Nebula Exploit",
+      "password": "Nb",
+      "tgChannel": "http://t.me/solo_crx",
+      "creator": "a2mbd3",
+      "banned": 0,
+      "chatId": 8074495633,
+      "createdAt": "2026-06-28T08:36:20.272Z"
+    },
+    {
+      "id": 107,
+      "name": "Abdullah 🇧🇩🇵🇸",
+      "password": "0",
+      "tgChannel": "http://t.me/solo_crx",
+      "creator": "a2mbd",
+      "banned": 0,
+      "chatId": 8378888600,
+      "createdAt": "2026-06-28T08:42:54.786Z"
+    },
+    {
+      "id": 108,
+      "name": "Arafat",
+      "password": "303",
+      "tgChannel": "0",
+      "creator": "nayem3034",
+      "banned": 0,
+      "chatId": 8380195452,
+      "createdAt": "2026-06-28T15:48:26.625Z"
+    },
+    {
+      "id": 109,
+      "name": "乙HㅤOFFICIAL",
+      "password": "ZH",
+      "tgChannel": "javascript:(function(){window.ABDULLAH_BOOKMARK_LO",
+      "creator": "zh_free_hack",
+      "banned": 0,
+      "chatId": 8207365658,
+      "createdAt": "2026-06-28T17:21:28.831Z"
+    },
+    {
+      "id": 110,
+      "name": "HBS",
+      "password": "0",
+      "tgChannel": "@TEAM_HBS",
+      "creator": "team_hbs",
+      "banned": 0,
+      "chatId": 8721952828,
+      "createdAt": "2026-06-28T20:13:33.470Z"
     }
   ]
 }
