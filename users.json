@@ -1020,6 +1020,16 @@
       "chatId": -1003828861119,
       "createdAt": "2026-06-30T21:04:14.940Z",
       "lastSeen": "2026-06-30T21:30:51.795Z"
+    },
+    {
+      "id": 113,
+      "name": "FF JOD",
+      "password": "JOD",
+      "tgChannel": "0",
+      "creator": "its_parvez_222",
+      "banned": 0,
+      "chatId": 7853458046,
+      "createdAt": "2026-07-01T20:42:59.821Z"
     }
   ]
 }
