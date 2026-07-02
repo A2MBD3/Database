@@ -1040,6 +1040,16 @@
       "banned": 0,
       "chatId": 7715382419,
       "createdAt": "2026-07-02T16:42:43.674Z"
+    },
+    {
+      "id": 115,
+      "name": "Sumit singh",
+      "password": "123",
+      "tgChannel": "https://t.me/sanam94cheats",
+      "creator": "sumitsingh090",
+      "banned": 0,
+      "chatId": 7077919506,
+      "createdAt": "2026-07-02T17:28:23.294Z"
     }
   ]
 }
