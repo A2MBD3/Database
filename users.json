@@ -1030,6 +1030,16 @@
       "banned": 0,
       "chatId": 7853458046,
       "createdAt": "2026-07-01T20:42:59.821Z"
+    },
+    {
+      "id": 114,
+      "name": "RIFAT MODS",
+      "password": "RIFAT MODS",
+      "tgChannel": "https://t.me/+9CHLk_Li_i9iZGFl",
+      "creator": "rifat_mod_ofc",
+      "banned": 0,
+      "chatId": 7715382419,
+      "createdAt": "2026-07-02T16:42:43.674Z"
     }
   ]
 }
