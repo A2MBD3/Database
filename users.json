@@ -1050,6 +1050,16 @@
       "banned": 0,
       "chatId": 7077919506,
       "createdAt": "2026-07-02T17:28:23.294Z"
+    },
+    {
+      "id": 116,
+      "name": "MR XOD",
+      "password": "123456",
+      "tgChannel": "@wantedkp",
+      "creator": "wanted5kp",
+      "banned": 0,
+      "chatId": 8434161216,
+      "createdAt": "2026-07-02T21:19:38.819Z"
     }
   ]
 }
