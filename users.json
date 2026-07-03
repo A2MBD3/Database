@@ -1060,6 +1060,16 @@
       "banned": 0,
       "chatId": 8434161216,
       "createdAt": "2026-07-02T21:19:38.819Z"
+    },
+    {
+      "id": 117,
+      "name": "ff",
+      "password": "0",
+      "tgChannel": "0",
+      "creator": "its_king_22",
+      "banned": 0,
+      "chatId": 7130060961,
+      "createdAt": "2026-07-03T05:53:49.093Z"
     }
   ]
 }
