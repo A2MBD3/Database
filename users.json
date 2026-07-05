@@ -1083,13 +1083,13 @@
     },
     {
       "id": 119,
-      "name": "Ronaldo",
-      "password": "Cr7",
+      "name": "Cr7",
+      "password": "0",
       "tgChannel": "0",
       "creator": "hb_yz",
       "banned": 0,
       "chatId": 7210442494,
-      "createdAt": "2026-07-05T06:25:36.807Z"
+      "createdAt": "2026-07-05T06:25:37.108Z"
     }
   ]
 }
