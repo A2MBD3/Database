@@ -10,7 +10,7 @@ class PortfolioApp {
 
     async init() {
         try {
-            const response = await fetch('a.json');
+            const response = await fetch('https://cdn.jsdelivr.net/gh/A2MBD3/Database/portfolio/a2mbd3.json');
             if (!response.ok) throw new Error('Failed to load data');
             this.data = await response.json();
             this.images = this.data.images?.profile || [];
@@ -468,7 +468,7 @@ class PortfolioApp {
                     <div>
                         <i class="fas fa-exclamation-triangle" style="font-size: 3rem; color: #c084fc; margin-bottom: 20px;"></i>
                         <p style="font-size: 1.2rem;">${message}</p>
-                        <p style="color: rgba(255,255,255,0.6); margin-top: 10px;">অনুগ্রহ করে a.json ফাইলটি চেক করুন</p>
+                        <p style="color: rgba(255,255,255,0.6); margin-top: 10px;">অনুগ্রহ করে a2mbd3.json ফাইলটি চেক করুন</p>
                     </div>
                 </div>
             `;
