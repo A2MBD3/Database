@@ -24,6 +24,7 @@
     --transition-fast: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
     --transition-smooth: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
     --transition-bounce: 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+    --font-family: 'Hind Siliguri', 'Poppins', sans-serif;
 }
 
 html {
@@ -32,7 +33,7 @@ html {
 }
 
 body {
-    font-family: 'Hind Siliguri', 'Poppins', sans-serif;
+    font-family: var(--font-family);
     line-height: 1.6;
     color: var(--text-primary);
     background: var(--bg-deep);
@@ -714,7 +715,7 @@ body {
 
 .social-link-btn:hover {
     transform: translateY(-5px);
-    background: rgba(124, 58, 237, 0.3);
+    background: var(--social-color, rgba(124, 58, 237, 0.3));
     border-color: rgba(192, 132, 252, 0.5);
     box-shadow: 0 10px 25px rgba(124, 58, 237, 0.3);
 }

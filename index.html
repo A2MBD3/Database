@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="আবদুল্লাহ আল মামুন - ব্যক্তিগত ওয়েবসাইট">
+    <title>আবদুল্লাহ আল মামুন</title>
+    
+    <!-- ===== FAVICON (Netlify Root Directory) ===== -->
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    
+    <!-- ===== FONTS & CSS ===== -->
+    <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    
+    <script>
+        const t = Date.now();
+        document.write('<link rel="stylesheet" href="portfolio/style.css">');
+    </script>
+</head>
+<body>
+    <div id="app"></div>
+    
+    <script>
+        const t2 = Date.now();
+        document.write('<script src="portfolio/script.js"><\/script>');
+    </script>
+    
+    <script>
+        (function() {
+            const files = [
+                'style.css',
+                'script.js', 
+                'a2mbd3.json'
+            ];
+            
+            files.forEach(file => {
+                fetch(`https://purge.jsdelivr.net/gh/A2MBD3/Database/portfolio/${file}`)
+                    .then(response => {
+                        if (response.ok) {
+                            console.log(`✅ Purged: ${file}`);
+                        } else {
+                            console.log(`⚠️ Failed: ${file} (Status: ${response.status})`);
+                        }
+                    })
+                    .catch(error => {
+                        console.log(`❌ Error: ${file}`, error);
+                    });
+            });
+        })();
+    </script>
+</body>
+</html>
