@@ -192,7 +192,6 @@ class DynamicPortfolio {
             </div>
         `;
     }
-
     buildAboutSection(person, items) {
         if (!person.bio && items.length === 0) return '';
         
