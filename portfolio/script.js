@@ -10,7 +10,7 @@ class PortfolioApp {
 
     async init() {
         try {
-            const response = await fetch('https://cdn.jsdelivr.net/gh/A2MBD3/Database/portfolio/a2mbd3.json');
+            const response = await fetch('https://cdn.jsdelivr.net/gh/A2MBD3/Database/portfolio/a2mbd3.json?t=' + Date.now());
             if (!response.ok) throw new Error('Failed to load data');
             this.data = await response.json();
             this.images = this.data.images?.profile || [];
