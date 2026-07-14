@@ -1,77 +1,333 @@
-# Programming Languages
-py
-js
-ts
-java
-kt
-c
-cpp
-h
-hpp
-cs
-go
-rs
-rb
-php
-swift
-dart
-lua
-r
-scala
-groovy
-clj
+# ============================================
+# Programming Languages - Source Code
+# ============================================
 
-# Web
+# Python
+py
+pyw
+pyx
+pyi
+ipynb
+
+# JavaScript / TypeScript
+js
+jsx
+mjs
+cjs
+ts
+tsx
+
+# Web Frontend
 html
+htm
+xhtml
 css
 scss
 sass
 less
 vue
 svelte
-jsx
-tsx
+astro
 
-# Config
-json
-yaml
-yml
-toml
-xml
-ini
-cfg
-conf
-env
+# PHP
+php
+phtml
+php3
+php4
+php5
+php7
+php8
 
-# Database
+# Java / Kotlin
+java
+kt
+kts
+gradle
+
+# C / C++
+c
+cpp
+cxx
+cc
+h
+hpp
+hxx
+
+# C# / .NET
+cs
+vb
+fs
+
+# Ruby
+rb
+rake
+gemspec
+erb
+
+# Go
+go
+
+# Rust
+rs
+
+# Swift
+swift
+
+# Dart / Flutter
+dart
+
+# Lua
+lua
+
+# R
+r
+rmd
+
+# Shell Scripting
+sh
+bash
+zsh
+fish
+bat
+ps1
+
+# SQL
 sql
 mysql
 psql
 sqlite
 
-# Build
-gradle
-cmake
-makefile
+# Markup / Data
+json
+xml
+yaml
+yml
+toml
+ini
+cfg
+conf
+env
+md
+markdown
+rst
+csv
+
+# Docker / Container
 dockerfile
+dockerignore
+
+# Make / Build
+makefile
+mk
+cmake
+
+# Git
+gitignore
+gitattributes
+gitmodules
 
 # Documentation
-md
-rst
 txt
 log
+text
+readme
+license
 
-# Scripts
-sh
-bash
-zsh
-bat
-ps1
+# Other Scripts
+perl
+pl
+pm
+tcl
+awk
+sed
 
-# Package Files
+# MATLAB / Octave
+m
+mat
+
+# Scala
+scala
+sc
+
+# Groovy
+groovy
+gvy
+
+# Haskell
+hs
+lhs
+
+# Elixir
+ex
+exs
+
+# Erlang
+erl
+hrl
+
+# Clojure
+clj
+cljs
+edn
+
+# Julia
+jl
+
+# Crystal
+cr
+
+# Nim
+nim
+
+# Zig
+zig
+
+# V Lang
+v
+
+# OCaml
+ml
+mli
+
+# Assembly
+asm
+s
+
+# Fortran
+f
+f90
+f95
+
+# COBOL
+cbl
+cob
+cpy
+
+# Lisp / Scheme
+lisp
+lsp
+cl
+scm
+ss
+rkt
+el
+
+# Prolog
+pro
+pl
+
+# Solidity (Smart Contracts)
+sol
+
+# GraphQL
+graphql
+gql
+
+# Protocol Buffers
+proto
+
+# Thrift
+thrift
+
+# Terraform
+tf
+tfvars
+
+# Ansible / Puppet / Chef
+pp
+epp
+
+# Jupyter
+ipynb
+
+# Config Files
+editorconfig
+eslintrc
+prettierrc
+babelrc
+npmrc
+yarnrc
+
+# Lock Files
+lock
+lockfile
+
+# Template Files
+j2
+jinja
+jinja2
+twig
+liquid
+mustache
+hbs
+handlebars
+ejs
+pug
+jade
+
+# Style / Theme
+css
+scss
+sass
+less
+styl
+theme
+
+# Font Files (for web dev)
+woff
+woff2
+ttf
+otf
+eot
+
+# Graphics (Vector)
+svg
+
+# CI/CD
+travis.yml
+gitlab-ci.yml
+jenkinsfile
+circleci
+
+# Package Managers
 package.json
-requirements.txt
-Cargo.toml
-go.mod
-Gemfile
+package-lock.json
+yarn.lock
 composer.json
+composer.lock
+gemfile
+gemfile.lock
+requirements.txt
+pipfile
+pipfile.lock
+cargo.toml
+cargo.lock
+go.mod
+go.sum
+pubspec.yaml
+
+# Meta / Project Files
+project
+classpath
+manifest
+iml
+sln
+csproj
+vbproj
+fsproj
+
+# Database
+db
+sqlite
+sqlite3
+mdb
+
+# Patch / Diff
+patch
+diff
+
+# Certificates / Keys
+pem
+crt
+key
+pub
