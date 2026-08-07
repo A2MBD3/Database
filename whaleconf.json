@@ -1,6 +1,6 @@
 {
-  "status": 1,
-  "version": "1.0",
+  "status": 2,
+  "version": "1.2",
   "sha256hash": "c30008124a53d2f8d898383ed42693a65fd5dffbe7d6d25404da260d6c648e8d",
-  "message": "First Stable release"
+  "message": "First release"
 }
