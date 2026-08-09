@@ -1,0 +1,11 @@
+[
+  {
+    "version": 502,
+    "files": {
+      "service.sh": "49cc5ae1c9f4c241dcb52b5aa19394e1075cddbd471b2d0c1ddd9858bef1e369",
+      "action.sh": "63441eafab39892019fffca08001ebe2fc0a1a79e2bc1ec308ac85e22a27c94b",
+      "system/bin/BlueWhale": "87593c885da750c9c36e265ea44886137f7eb3705a68bc52537060c1f9b6ec71",
+      "webroot/index.html": "3754c15da378d2f017df09b069ff571dc46f530616c3da65740d98057f561aa7"
+    }
+  }
+]
