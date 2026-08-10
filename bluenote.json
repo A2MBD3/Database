@@ -1,7 +1,25 @@
 {
-  "info": "BlueWhale is an advanced connection monitoring tool developed by TeamCRX. It provides real-time system status tracking and connection testing capabilities.",
-  "notice": "All services are currently operational. New features and improvements are rolling out regularly. Stay connected to our official channel for updates.",
-  "pricing": "Contact @hqcrx for pricing inquiries",
-  "channel": "https://t.me/hqcrx",
+  "info": "BlueWhale is an advanced connection monitoring tool developed exclusively by TeamCRX. It provides real-time system status tracking, connection testing, and comprehensive monitoring capabilities.",
+  "notice": "All services are currently operational. New features and improvements are rolling out regularly. Stay connected to our official channel for the latest updates.",
+  "pricing": {
+    "app": "Dolphin",
+    "trial": {
+      "days": 3,
+      "key": "BlueWhale"
+    },
+    "plans": [
+      { "days": 1, "price": 0.25 },
+      { "days": 3, "price": 0.60 },
+      { "days": 7, "price": 1.20 },
+      { "days": 14, "price": 1.80 },
+      { "days": 30, "price": 3.50 },
+      { "days": 99999, "price": 5.70 }
+    ]
+  },
+  "channel": {
+    "name": "TeamCRX Official",
+    "url": "https://t.me/hqcrx",
+    "logo": "https://i.imgur.com/teamcrx-logo.png"
+  },
   "website": "https://crxx.pages.dev"
 }
