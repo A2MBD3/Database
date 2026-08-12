@@ -22,7 +22,7 @@
     ]
   },
   "channel": {
-    "name": "TeamCRX",
+    "name": "Team CRX",
     "url": "https://t.me/hqcrx",
     "logo": "https://a2mbd3.github.io/CRX/a/crx.jpg"
   },
@@ -33,7 +33,7 @@
       "avatar": "https://a2mbd3.github.io/CRX/a/a.jpg",
       "telegram": "https://t.me/A2MBD3",
       "verified": true,
-      "badgeColor": "#34AADF"
+      "badgeColor": "#fc0303"
     }
   ]
 }
