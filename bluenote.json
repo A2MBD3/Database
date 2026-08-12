@@ -5,15 +5,15 @@
   "pricing": {
     "app": "Dolphin",
     "trial": {
-      "days": 3,
+      "days": 1.5,
       "key": "BlueWhale"
     },
     "plans": [
-      { "days": 1, "price": 0.5 },
-      { "days": 3, "price": 1.3 },
-      { "days": 7, "price": 3.1 },
-      { "days": 14, "price": 5.98 },
-      { "days": 30, "price": 8.3 },
+      { "days": 1, "price_min": 0.4, "price_max": 0.5 },
+      { "days": 3, "price_min": 1.2, "price_max": 1.34 },
+      { "days": 7, "price_min": 2.9, "price_max": 3.1 },
+      { "days": 14, "price_min": 5.5, "price_max": 5.98 },
+      { "days": 30, "price_min": 7.8, "price_max": 8.3 },
       { "days": 99999, "price": 11 }
     ]
   },
@@ -27,7 +27,9 @@
     {
       "name": "Abdullah",
       "avatar": "https://a2mbd3.github.io/CRX/a/a.jpg",
-      "telegram": "https://t.me/A2MBD3"
+      "telegram": "https://t.me/A2MBD3",
+      "verified": true,
+      "badgeColor": "#e02424"
     }
   ]
 }
