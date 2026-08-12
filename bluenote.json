@@ -2,6 +2,10 @@
   "info": "BlueWhale",
   "logo": "https://a2mbd3.github.io/CRX/a/bluewhale.jpg",
   "notice": "All services are currently operational. New features and improvements are rolling out regularly. Stay connected to our official channel for the latest updates.",
+  "scamAlert": {
+    "title": "Scammer Alert",
+    "text": "Beware of scammers! BlueWhale is developed exclusively by TeamCRX. Do not purchase from unauthorized sellers or intermediaries. Only trust our official channels."
+  },
   "pricing": {
     "app": "Dolphin",
     "trial": {
@@ -29,7 +33,7 @@
       "avatar": "https://a2mbd3.github.io/CRX/a/a.jpg",
       "telegram": "https://t.me/A2MBD3",
       "verified": true,
-      "badgeColor": "#e02424"
+      "badgeColor": "#34AADF"
     }
   ]
 }
