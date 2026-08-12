@@ -1,5 +1,6 @@
 {
   "info": "BlueWhale",
+  "logo": "https://a2mbd3.github.io/CRX/a/bluewhale.jpg",
   "notice": "All services are currently operational. New features and improvements are rolling out regularly. Stay connected to our official channel for the latest updates.",
   "pricing": {
     "app": "Dolphin",
@@ -21,5 +22,17 @@
     "url": "https://t.me/hqcrx",
     "logo": "https://a2mbd3.github.io/CRX/a/crx.jpg"
   },
-  "website": "https://crxx.pages.dev"
+  "website": "https://crxx.pages.dev",
+  "sellers": [
+    {
+      "name": "Abdullah",
+      "avatar": "https://a2mbd3.github.io/CRX/a/abdullah.jpg",
+      "telegram": "https://t.me/A2MBD3"
+    },
+    {
+      "name": "Alamin",
+      "avatar": "https://a2mbd3.github.io/CRX/a/alamin.jpg",
+      "telegram": "https://t.me/username"
+    }
+  ]
 }
