@@ -1,10 +1,10 @@
 {
   "info": "BlueWhale",
-  "logo": "https://a2mbd3.github.io/CRX/a/bluewhale.jpg",
-  "notice": "All services are currently operational. New features and improvements are rolling out regularly. Stay connected to our official channel for the latest updates.",
+  "logo": "https://raw.githubusercontent.com/A2MBD3/Database/main/images/bw.jpg",
+  "notice": " New features and improvements are rolling out regularly. Stay connected to our official channel for the latest updates.",
   "scamAlert": {
     "title": "Scammer Alert",
-    "text": "Beware of scammers! BlueWhale is developed exclusively by TeamCRX. Do not purchase from unauthorized sellers or intermediaries. Only trust our official channels."
+    "text": "Beware of scammers! BlueWhale is developed exclusively by TeamCRX. Do not purchase from unauthorized sellers or intermediaries. Only trust our official sellers listed below"
   },
   "pricing": {
     "app": "Dolphin",
@@ -32,6 +32,20 @@
       "name": "Abdullah",
       "avatar": "https://a2mbd3.github.io/CRX/a/a.jpg",
       "telegram": "https://t.me/A2MBD3",
+      "verified": true,
+      "badgeColor": "#ff0000"
+    },
+    {
+      "name": "𝗕𝗔𝗕𝗨 𝗩𝗔𝗜 PANEL SELL",
+      "avatar": "https://raw.githubusercontent.com/A2MBD3/Database/main/images/sellers/babu.jpg",
+      "telegram": "https://t.me/pmdbabu3287",
+      "verified": true,
+      "badgeColor": "#ff0000"
+    },
+   {
+      "name": "GUCCI",
+      "avatar": "https://cdn.phototourl.com/free/2026-08-13-b5b75412-7ba7-4d86-a2cd-adf379940a40.jpg",
+      "telegram": "https://t.me/GUCCI8240",
       "verified": true,
       "badgeColor": "#ff0000"
     }
