@@ -18,7 +18,7 @@
       { "days": 7, "price_min": 2.5, "price_max": 3.1 },
       { "days": 14, "price_min": 5.0, "price_max": 5.9 },
       { "days": 30, "price_min": 7.5, "price_max": 8.3 },
-      { "days": 99999, "price": 9 }
+      { "days": 99999, "price": 8.5 }
     ]
   },
   "channel": {
