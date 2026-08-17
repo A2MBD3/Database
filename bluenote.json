@@ -13,12 +13,12 @@
       "key": "BlueWhale"
     },
     "plans": [
-      { "days": 1, "price_min": 0.4, "price_max": 0.5 },
-      { "days": 3, "price_min": 1.2, "price_max": 1.34 },
-      { "days": 7, "price_min": 2.9, "price_max": 3.1 },
-      { "days": 14, "price_min": 5.5, "price_max": 5.98 },
-      { "days": 30, "price_min": 7.8, "price_max": 8.3 },
-      { "days": 99999, "price": 9 }
+      { "days": 1, "price_min": 0.2, "price_max": 0.5 },
+      { "days": 3, "price_min": 1.0, "price_max": 1.34 },
+      { "days": 7, "price_min": 2.5, "price_max": 3.1 },
+      { "days": 14, "price_min": 5.0, "price_max": 5.98 },
+      { "days": 30, "price_min": 7.5, "price_max": 8.3 },
+      { "days": 99999, "price": 8 }
     ]
   },
   "channel": {
