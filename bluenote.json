@@ -9,7 +9,7 @@
   "pricing": {
     "app": "Dolphin",
     "trial": {
-      "days": 1.5,
+      "days": 0.5,
       "key": "BlueWhale"
     },
     "plans": [
@@ -36,13 +36,6 @@
       "badgeColor": "#ff0000"
     },
     {
-      "name": "𝗕𝗔𝗕𝗨 𝗩𝗔𝗜 PANEL SELL",
-      "avatar": "https://raw.githubusercontent.com/A2MBD3/Database/main/images/sellers/babu.jpg",
-      "telegram": "https://t.me/Md_Babu444",
-      "verified": false,
-      "badgeColor": "#00ffff"
-    },
-   {
       "name": "GUCCI",
       "avatar": "https://cdn.phototourl.com/free/2026-08-13-b5b75412-7ba7-4d86-a2cd-adf379940a40.jpg",
       "telegram": "https://t.me/GUCCI8240",
